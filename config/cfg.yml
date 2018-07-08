@@ -1,0 +1,8 @@
+Email:
+  - smtp_server = smtp.qq.com
+  - port = 465
+  - sender = 781412862@qq.com
+  - psw = guzongbing922@..
+  #收件人
+  - receiver = 781412862@qq.com
+
